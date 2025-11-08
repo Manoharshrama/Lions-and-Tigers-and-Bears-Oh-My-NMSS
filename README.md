@@ -5,7 +5,7 @@
 
 ### Credits & references:
 
-Majority of the code in this repository is derived from the youtube video titled "Dogs, JavaScript & An API 🐶 Fetch, Promises & Async Await"  https://www.youtube.com/watch?v=AVmGmLFcukM
+Majority of the code in this repository is derived from the youtube video titled "Dogs, JavaScript & An API 🐶 Fetch, Promises & Async Await" by Brad Schiff  https://www.youtube.com/watch?v=AVmGmLFcukM
 
 
 ---
