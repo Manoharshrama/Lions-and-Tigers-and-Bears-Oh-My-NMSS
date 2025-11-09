@@ -9,7 +9,7 @@ Majority of the code in this repository is derived from the youtube video titled
 
 
 ---
-page_type: DiceRoller
+page_type:  Lions-and-Tigers-and-Bears-Oh-My-NMSS
 languages:
 - html
 - javascript
